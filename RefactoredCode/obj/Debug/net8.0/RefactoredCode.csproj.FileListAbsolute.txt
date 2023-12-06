@@ -1,0 +1,14 @@
+C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\bin\Debug\net8.0\RefactoredCode.exe
+C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\bin\Debug\net8.0\RefactoredCode.deps.json
+C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\bin\Debug\net8.0\RefactoredCode.runtimeconfig.json
+C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\bin\Debug\net8.0\RefactoredCode.dll
+C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\bin\Debug\net8.0\RefactoredCode.pdb
+C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\obj\Debug\net8.0\RefactoredCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\obj\Debug\net8.0\RefactoredCode.AssemblyInfoInputs.cache
+C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\obj\Debug\net8.0\RefactoredCode.AssemblyInfo.cs
+C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\obj\Debug\net8.0\RefactoredCode.csproj.CoreCompileInputs.cache
+C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\obj\Debug\net8.0\RefactoredCode.dll
+C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\obj\Debug\net8.0\refint\RefactoredCode.dll
+C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\obj\Debug\net8.0\RefactoredCode.pdb
+C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\obj\Debug\net8.0\RefactoredCode.genruntimeconfig.cache
+C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\obj\Debug\net8.0\ref\RefactoredCode.dll
