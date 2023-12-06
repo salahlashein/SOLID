@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RefactoredCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+603040193632c6faf6f8c6f62ec885081fa7b69d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RefactoredCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RefactoredCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

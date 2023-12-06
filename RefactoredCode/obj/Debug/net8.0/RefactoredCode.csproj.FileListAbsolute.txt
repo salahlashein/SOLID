@@ -12,3 +12,4 @@ C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\obj\Debug\net8.0\refint\
 C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\obj\Debug\net8.0\RefactoredCode.pdb
 C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\obj\Debug\net8.0\RefactoredCode.genruntimeconfig.cache
 C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\obj\Debug\net8.0\ref\RefactoredCode.dll
+C:\Users\Salah Lashein\Desktop\EFG\Solid\RefactoredCode\obj\Debug\net8.0\RefactoredCode.sourcelink.json
